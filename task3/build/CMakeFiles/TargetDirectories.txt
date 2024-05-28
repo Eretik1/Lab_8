@@ -1,0 +1,5 @@
+D:/progects/progect8/task3/build/CMakeFiles/ObjectDetection.dir
+D:/progects/progect8/task3/build/CMakeFiles/package.dir
+D:/progects/progect8/task3/build/CMakeFiles/package_source.dir
+D:/progects/progect8/task3/build/CMakeFiles/edit_cache.dir
+D:/progects/progect8/task3/build/CMakeFiles/rebuild_cache.dir

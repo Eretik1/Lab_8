@@ -1,0 +1,5 @@
+# ninja log v5
+4	642	7383290694553132	CMakeFiles/task3.dir/main.cpp.obj	2c7b6b6fa61ba7bc
+643	805	7383290696153329	task3.exe	a9f5de03c8627e7f
+15	2385	7385777791798375	CMakeFiles/ObjectDetection.dir/main.cpp.obj	71ec76e33ed54690
+2385	2883	7385777796678368	ObjectDetection.exe	781bdb35a8324f41

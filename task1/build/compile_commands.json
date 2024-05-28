@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/progects/progect8/task1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\main.cpp.obj -c D:\\progects\\progect8\\task1\\main.cpp",
+  "file": "D:\\progects\\progect8\\task1\\main.cpp",
+  "output": "CMakeFiles\\multifile.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect8/task1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\def.cpp.obj -c D:\\progects\\progect8\\task1\\def.cpp",
+  "file": "D:\\progects\\progect8\\task1\\def.cpp",
+  "output": "CMakeFiles\\multifile.dir\\def.cpp.obj"
+}
+]

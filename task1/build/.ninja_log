@@ -1,0 +1,6 @@
+# ninja log v5
+26	607	7383224737028706	CMakeFiles/task1.dir/main.cpp.obj	466658c5bea76530
+8	502	7383231767637566	CMakeFiles/multifile.dir/main.cpp.obj	1ef71543880c20fe
+608	734	7383224738309245	task1.exe	628c67d7a6fc34ee
+18	576	7383231490589344	CMakeFiles/multifile.dir/def.cpp.obj	782dc666b5952645
+502	636	7383231768917571	multifile.exe	43fd08eaf8d1dfe3

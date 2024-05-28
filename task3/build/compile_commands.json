@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/progects/progect8/task3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem C:/msys64/mingw64/include/opencv4 -g -o CMakeFiles\\ObjectDetection.dir\\main.cpp.obj -c D:\\progects\\progect8\\task3\\main.cpp",
+  "file": "D:\\progects\\progect8\\task3\\main.cpp",
+  "output": "CMakeFiles\\ObjectDetection.dir\\main.cpp.obj"
+}
+]

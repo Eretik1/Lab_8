@@ -1,0 +1,3 @@
+D:/progects/progect8/task2/build/CMakeFiles/multifile.dir
+D:/progects/progect8/task2/build/CMakeFiles/edit_cache.dir
+D:/progects/progect8/task2/build/CMakeFiles/rebuild_cache.dir

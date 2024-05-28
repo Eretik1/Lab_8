@@ -1,0 +1,5 @@
+# ninja log v5
+4	14	0	clean	9c4b4372737ab8da
+10	600	7385806862555661	CMakeFiles/multifile.dir/main.cpp.obj	dec8bed507632144
+16	660	7385806863195661	CMakeFiles/multifile.dir/hash.cpp.obj	a9ec47903c32680b
+660	795	7385806864475708	multifile.exe	3d01e188b9944367
